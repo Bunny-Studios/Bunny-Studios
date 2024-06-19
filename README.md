@@ -1,16 +1,16 @@
-## Hi there 👋
+##Olá pessoal 👋
 
 <!--
-**Bunny-Studios/Bunny-Studios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Bunny-Studios/Bunny-Studios** é um repositoria ✨ special ✨ porque seu 'README.md (este arquivo) aparece em seu perfil do GitHub.
 
-Here are some ideas to get you started:
+Aqui estão algumas ideias para você começar:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Atualmente estou trabalhando em um suoermercado
+- 🌱 Atualmente estou estudando no segundo ano do ensino medio
+- 👯 procuro colaborar em programação, estu estudando sobre programação então tenham paciencia comigo
+- 🤔 Estou procurando ajuda com programação, como eu disse, ainda sou iniciante nisso
+- 💬 pergunte me sobre coisas de fnaf, zueira, na erdade não tenho conhecimento o suficiente para ensinar algo, mas qem sabe um dia
+- 📫 Se quiser conversar comigo me mande pelo E-mail
+- 😄 ;-;
+- ⚡ Sou bem viiado em fnaf
 -->
